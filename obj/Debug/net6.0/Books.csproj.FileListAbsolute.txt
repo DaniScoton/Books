@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\bin\Debug\net6.0\Books.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\bin\Debug\net6.0\Books.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\bin\Debug\net6.0\Books.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\bin\Debug\net6.0\Books.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\bin\Debug\net6.0\Books.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\obj\Debug\net6.0\Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\obj\Debug\net6.0\Books.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\obj\Debug\net6.0\Books.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\obj\Debug\net6.0\Books.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\obj\Debug\net6.0\Books.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\obj\Debug\net6.0\refint\Books.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\obj\Debug\net6.0\Books.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\obj\Debug\net6.0\Books.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\Books\Books\obj\Debug\net6.0\ref\Books.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wrdF8nS9P8x6tZYCtdlrkqsqGUiD+QmnWbx4vhcl1+NiuhZ/uWHwKgfvGtDwMkjaySqKRcHXXMvCmVTLQ7ig5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Projetos\\Books\\Books\\Books.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://200.98.128.83:81/nugetserver/nuget'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
+}
